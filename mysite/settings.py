@@ -25,7 +25,7 @@ SECRET_KEY = '7w4f46z!6jj1=j%)asluf)yu)tro2v)!!t5kwd8aw1-^#n*5vj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['DrakonFirestone.pythonanywhere.com']
 
 
 # Application definition
